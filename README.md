@@ -80,7 +80,7 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mern-food-delivery.git
+https://github.com/JashanjotSingh812/Food-Delievery
 cd mern-food-delivery
 2. Setup Backend
 bash
